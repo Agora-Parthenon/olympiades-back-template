@@ -1,4 +1,4 @@
-package com.olympiades.template;
+package org.olympiades.template;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

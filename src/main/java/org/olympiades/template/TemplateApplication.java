@@ -1,4 +1,4 @@
-package com.olympiades.template;
+package org.olympiades.template;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
